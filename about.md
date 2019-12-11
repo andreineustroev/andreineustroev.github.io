@@ -3,7 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
+Мини-бложик физика девопса для внезапных приступов графомании.
 
-Что-то пытаюсь сделать на Jekyll
-
-[jekyll-organization]: https://github.com/jekyll
+* {{ site.email }}
+* [vk](https://vk.com/andrei.neustroev)
+* [linkedin](https://www.linkedin.com/in/andrei-neustroev-46183258/)
+* tg: @andreineustroev
