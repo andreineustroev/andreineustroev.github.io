@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: ИнфО
 permalink: /about/
 ---
 Мини-бложик физика девопса для внезапных приступов графомании.

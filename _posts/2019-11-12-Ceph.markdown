@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ceph"
-date:   2019-10-09 23:29:20 +0500
+date:   2019-12-11 23:29:20 +0500
 categories: storage, sds
 ---
 
