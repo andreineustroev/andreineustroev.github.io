@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "HA prometheus"
-date:   2019-10-09 23:29:20 +0500
+date:   2020-22-02 23:29:20 +0500
 categories: monitoring, prometheus, ha
 ---
 
