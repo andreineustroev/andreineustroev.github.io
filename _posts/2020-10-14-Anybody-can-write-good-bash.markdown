@@ -106,7 +106,7 @@ items=$(find . -name 'foo*' -o -name 'bar*')
 ```bash
 items=(**/@(foo|bar)*)
 ```
-Есть хорошее объяснение globbing от Linux Journal [тут](https://www.linuxjournal.com/content/bash-extended-globbing); объясняющее реализацию globstar в [документации GNU shopt](https://www.gnu.org/software/bash/manual/html_node/The-Shopt-Builtin.html)
+Есть хорошее объяснение `globbing` от Linux Journal [тут](https://www.linuxjournal.com/content/bash-extended-globbing); объясняющее реализацию `globstar` в [документации GNU shopt](https://www.gnu.org/software/bash/manual/html_node/The-Shopt-Builtin.html)
 
 ## Автоматический линтинг и форматирование
 
