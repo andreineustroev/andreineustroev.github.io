@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Is Google Making Us Stupid"
-date:   2021 16:29:20 +0500
+date:   2021-09-14 16:29:20 +0500
 categories: text
 ---
 
